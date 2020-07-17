@@ -1,6 +1,6 @@
 {
   "name": "sentimoji",
-  "description": "",
+  "description": "Sentiment analysis represented by a single emoji",
   "version": "0.1.0",
   "private": "true",
   "main": "build/index.js",

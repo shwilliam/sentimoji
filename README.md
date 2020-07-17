@@ -1,5 +1,7 @@
 # Sentimoji
 
+> Sentiment analysis represented by a single emoji
+
 ## Development
 
 ```terminal
