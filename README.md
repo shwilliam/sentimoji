@@ -2,6 +2,12 @@
 
 > Sentiment analysis represented by a single emoji
 
+## Usage
+
+Pass the text you wish to analyze as a path to your endpoint. For example, a valid
+request to the demo could look like
+[`https://emoji-summary.herokuapp.com/hello world`](https://emoji-summary.herokuapp.com/hello%20world).
+
 ## Development
 
 ```terminal
